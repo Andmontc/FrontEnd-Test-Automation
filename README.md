@@ -3,8 +3,9 @@
 ## Usage
 To run the framework, use the bazel command:
 
+```bash
 bazel test //src/test/java/org/google/globant/tests:StarbucksTests --strict_java_deps=OFF
-
+```
 you can reset the bazel build with bazel clean
 
 ### Result: 
