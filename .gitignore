@@ -1,0 +1,14 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+log/
+target/
+
+# Bazel
+bazel-bin
+bazel-cyf---google---test-automation-frontend
+bazel-out
+bazel-testlogs
